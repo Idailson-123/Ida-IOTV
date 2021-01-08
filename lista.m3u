@@ -1,0 +1,241 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ae36bf348d8b7c869d333e732413fd88.png" group-title="CANAIS REGIONAIS",TCM - MOSSORO
+
+https://live.tcm10.com.br/tcm10hd/stream.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db99fa9edaa26956790f577b63d21e61.png" group-title="CANAIS REGIONAIS",TV TROPICAL RN
+
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunklist_w287373117.m3u8 
+
+  #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d586d6cee28415b8aadc9f9eb3887d9d.png" group-title="CANAIS REGIONAIS",TV NATAL RN
+
+http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w1383935338.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="CANAIS REGIONAIS",TV DIARIO 
+
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQSUWpoGpHNPLCPac8_QzDw)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="CANAIS ABERTO",TV CULTURA
+
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w21949477.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4cc2faa53cb8b284468eaeda099eec55.png" group-title="CANAIS ABERTO",REDE BRASIL - RBTV 
+
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w441855714.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" group-title="CANAIS ABERTO",TV BRASIL
+
+https://video-rvd-pr-gw-1.rnp.br/live/ocp(t(FlP_1KrlDNQ)r(fVR9ug)a(sVTCBw)p(d(2xc)k(q8M)m(ZVCb3B8O5H7nNF8sBLgUhg)n(a(-KNivQ)s(B0c)'a(34ikow)s(Ua0)))s(s(o58)b(m14ahkrdCjln8U6yJpS4TO-IJvZNxItDGqdKkh-TqumJ328ro4srDeu8y1nfoES0rIu29d7dSWW1rgMAbg)'s(gfI)b(uONx0yge7GhAeHQppeEf7ZCW8K2Orfeo6PH9kDbpVNnpMvHsKY5GOHPXf8yhwWoaUmouI9kSFLDIaGMFndo3j0eey6bszLCEOkq1wVYi)'s(sHI)b(NlCgA5GC))m(0))/28_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d4d2795a660a7df799bbefe1861e618c.png" group-title="CANAIS REGIONAIS",TV FUTURO (CULTURA RN)
+
+https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w429611719.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c367dd0923ebf8b79a9b3dd3f4c3f443.png" group-title="CANAIS ABERTO",TV ESCOLA
+
+https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FlQAG0N_z7o)r(fVR9ug)a(sVTCBw)p(d(2xc)k(q8M)m(I3ecz125YWAVNABRnCpowQ)n(a(ogiGqw)s(dZY)'a(EICEnA)s(Niw)))s(s(lXA)b(q2pDp3UepmUWqo4lGURY1J5rxLOH9M8DAnbsdLPtOAd7YOg3K8dwDcf4Ocm2j_8Ud4G3ddyflrH2Ch5gcQ)'s(RiA)b(Pn5F0avCaaTW7LF26Xqug7gkp8FILIyBZcPF5eCmlZNzti_wZ0m5ALJ8u7lXOCBSFd_3lI6uYBus6ONTs42infHtNo3VBCLOjy3hoXKU)'s(3ec)b(ss-Y0LX0))m(0))/tvescola_index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg" group-title="VARIEDADES", D +!TV
+
+https://video01.kshost.com.br/d3420/d3420/chunklist_w1204991865.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8d5b4b2395106fd4d2c132f22b5e70c9.png" group-title="VARIEDADES", TV8 BRASIL
+
+https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8936ceb865591bcc9ace180f253fc697.jpg" group-title="VARIEDADES",VIVA WEB TV
+
+http://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w1221149772.m3u8
+
+  
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="CANAIS REGIONAIS",TV ARACATI HD
+
+https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0bd8252b6329a148a9ad807ddce74f84.jpg" group-title="CANAIS REGIONAIS",TV OSORIO NEWS
+
+https://5d82644094cc0.streamlock.net/tvosorionews/tvosorionews/chunklist_w1970067989.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/468a51d6031a373ec56983564ebf9ff8.jpg" group-title="VARIEDADES",TV CARIOCA
+
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1857653047.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da38f2efc9744b3ef828306b81b4588b.jpg" group-title="VARIEDADES",KRONOS MOVIE WEB TV
+
+https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" group-title="VARIEDADES",GOLPEL MOVIE TV
+
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w334283608.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3f71848039f8ff22ebf9597c76217099.jpg" group-title="VARIEDADES",LATINA SAT
+
+https://livefocamundo.com:8081/8470/tracks-v1a1/mono.m3u8
+
+ 
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db24d44b23d48de613d70881b8f1d013.png" group-title="FILMES",CLASSIQUE WESTERN TV
+
+https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9d7d1a4b47e3583e7c715cafee8cbd02.png" group-title="VARIEDADES",TV JORNAL DO NORDESTE
+
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w1705384288.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5552282b762cb4d1f7e8aa4f51a5d058.png" group-title="VARIEDADES",DHT TV
+
+https://srv4.zcast.com.br/alangabriel2643/alangabriel2643/chunklist_w1230298744.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f032a160e2b4cbb9de8f0080b845c9ca.png" group-title="FILMES",CLASSIQUE TV
+
+http://stmv2.srvstm.com/classique/classique/chunklist_w755171752.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4df6d535c389a4c82f840cbf01ff5399.jpg" group-title="VARIEDADES",PPTV CHANNEL
+
+https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/chunklist_w1282701643.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="CANAIS REGIONAIS",TV ARACATI
+
+https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
+
+ 
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="FILMES",TV SERIES 
+
+https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w297395239.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/478ee3549258b91ed79f142a3b8ddaa5.png" group-title="VARIEDADES",SEVEN TV
+
+https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f78ba83a1010b3d8fc8c98ca564aa7bf.png" group-title="FILMES",STAR TREK
+
+https://stmv1.srvstm.com/tvserie3/tvserie3/chunklist_w423194176.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="VARIEDADES",CANAL 29
+
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1007408778.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/205e5b4ec50d4113bf2ce13ea32fa2ea.png" group-title="INFANTIL",RETRO CARTOON
+
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w851910307.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94aPpKZ8xNXI3Gi3CzMF-krGgx_DNjWQ8rw&usqp=CAU" group-title="CANAIS ABERTO",GLOBO
+
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2020/11/Screenshot_2019-06-18-18-21-12.png" group-title="CANAIS ABERTO",SBT
+
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2060210049_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3tHITaVs2CSzXJs_bIGQfwjsRLe7ByZA2CA&usqp=CAU" group-title="CANAIS ABERTO",RECORD
+
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGn9ILfagYe8w_dL7s33nuFyU0Kc2l-moXfQ&usqp=CAU" group-title="CANAIS ABERTO",BAND
+
+https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/02d390172369f40ce5f199223c742866.png" group-title="CANAIS ABERTO",REDE TV
+
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w1130608890_b2884395.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqKEUL78Mx25kVZWaFPhYH1fHCGzagsIclXQ&usqp=CAU" group-title="INFANTIL",DISNEY JUNIOR
+
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-b.m3u8  
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-H9b7QZ5l1DY/XpzJQpYSwNI/AAAAAAAABvo/8HpiAr_Ba5EWZ951iseagiFEnCOrtTfOQCLcBGAsYHQ/s1600/play%2Bkids%2Bhd.jpg" group-title="INFANTIL",PLAYKIDS
+
+https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wNepz3gd4M0/XurIDgWzXgI/AAAAAAAAB-Y/hLWI-YdJPO8qHhL9v4ty0qMc_Iwix-bmACLcBGAsYHQ/s1600/tv%2Bnova%2Bplay.jpg" group-title="VARIEDADES",NOVA PLAY TV
+
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1831710381.m3u8 
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-y_6_CA_m958/X0RDkZGPCMI/AAAAAAAADLc/HbiMvmLEBIAteLT85H8PLaGcjvYyVQ5XwCLcBGAsYHQ/s320/Screenshot_2020-08-24-19-42-21.png" group-title="FILMES",TV MEGA CINE
+
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w423066048.m3u8 
+
+#EXTINF:-1 s://1.bp.blogspot.com/-BysZBlK2G5o/XtbFWt8jSbI/AAAAAAAAC5M/_A_0m2y1Oo8WkJT8J5DdveOjLPRoBM_SgCPcBGAYYCw/s0/Screenshot_2020-06-02-18-28-37.png" group-title="VARIEDADES",TV MANCHETE WEB
+
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w769646061.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dujMg4rd8a4/XriKbnJOt3I/AAAAAAAACvo/1olo3x6Iydga8wrQmsXUm8NW6-NkVp9eACLcBGAsYHQ/s320/2020-05-10%2B20.09.46.png" group-title="VARIEDADES",WEB TV RWCG
+
+http://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w8786158.m3u8 
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZGSocJJ8kf8/X6YHG_neQlI/AAAAAAAADvE/rAp416j25eQB2E8CFUgIjWwmpyCIWXdTQCLcBGAsYHQ/s0/TV%2BRECON%2BSAT.png" group-title="INFANTIL",TV RECON SAT KIDS
+
+https://stmv1.srvif.com/reconsatkids/reconsatkids/chunklist_w743900791.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bGE648csrKk/X8Kciu6W4JI/AAAAAAAAD3o/e8tm2Fh8MjgaUEb_ksd9A9FBFljjlZsjQCLcBGAsYHQ/s0/TV%2BCL%25C3%2581SSICOS.png" group-title="FILMES",TV CLASSICOS
+
+https://srv5.zcast.com.br/jorge9682/jorge9682/chunklist_w71410665.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-I2c8J1M9-ko/X7VclpPcIJI/AAAAAAAAD0s/e4GOBBPUqycpGVMtbejpoAhuQIgsR644gCLcBGAsYHQ/s0/CINE%2BTRIANON%2BTV.png" group-title="FILMES",CINE TRIANON TV
+
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w2125197162.m3u8 
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jAFhVdtwqeM/X9e4E-R0ssI/AAAAAAAAD-4/ehm0h2oWvVYQ7g7qtX3p-5OQA6KN6vBzACLcBGAsYHQ/s0/TV%2BTUPI.png" group-title="VARIEDADES",TV TUPI
+
+https://stmv1.srvif.com/redetupi/redetupi/chunklist_w46735400.m3u8
+
+.#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-faI3sYffT0w/Xrh_hrkuOcI/AAAAAAAACvE/3mt6BIKei_EHg9lOQetZU9Kk9kH2SJsMwCLcBGAsYHQ/s320/2020-05-10%2B19.21.05.png" group-title="VARIEDADES",CTV
+
+https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w2051747188.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="INFANTIL",ANIME TV
+
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1439496673.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZg3lWoz8jvbqERSUk3mnNo1QrQUKKWZyumg&usqp=CAU" group-title="VARIEDADES",REDE MANCHETE
+
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w967550760.m3u8
+
+              SALA DE CINEMA 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeRYIYDcppBujzFZK4Z9iEyHA57wf1cMZqcoAynXCo4NePj_1c" group-title="FILMES : ACAO",DAVI E GOLIAS
+
+https://play-akamai.pongalo.com/david-goliath_pt/david-goliath_pt_1-1/hls_2500.m3u8 
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/QLjCPDRcvYvhKYb89mxkkCzPj-HVgZS86K7529i5R8P6T8SfZjhRiDD2-woP8Rm-69AvBTd1q97V7n4Ak397NHV25SGJM3qOdwcpECKYqXQnBM6nOipvH0vufe2GA3XBP8Tka792B71b5386O0PvUqLnjjjc_yj9Q0Bgl7LDyifRPA=w313-h470" group-title="FILMES : ACAO",A BATALHA NA MONTANHA DO TIGRE
+
+https://play-akamai.pongalo.com/taking-tiger-mountain_pt/taking-tiger-mountain_pt_1-1/hls_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR26RFNXIYvV5MPJLg3CzPCYp1BL4HE2btXiEvpN0Txncu8rrVP" group-title="FILMES : ACAO",A LEGIAO
+
+https://play-akamai.pongalo.com/lost-legion_pt/lost-legion_pt_1-1/hls_2500.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR86VmF0wJYi_EWwwvLzB0jqNQQxoZ7ruLIgg&usqp=CAU" group-title="FILMES : TERROR",CONTATOS ALIENIGENAS
+
+https://play-akamai.pongalo.com/alien-hunger_pt/alien-hunger_pt_1-1/hls_2500.m3u8  
+
+#EXTINF:-1 tvg-log="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKg2pkDS4NYUFAZqJYu0uyLEJo6ItdrmeFwg&usqp=CAU" group-title="FILMES : ACAO", PISTOLEIROS: VINGANCA SEM PERDAO
+
+https://play-akamai.pongalo.com/american-gunslinger_pt/american-gunslinger_pt_1-1/hls_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/17/05/04/15/51/478446.jpg" group-title="FILMES : ACAO",APRISIONADOS
+
+https://play-akamai.pongalo.com/let-us-prey_pt/let-us-prey_pt_1-1/hls_2500.m3u8  
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkqctGaYyB0kb1UOvW-JX3fyCXkXIq_ia1lw&usqp=CAU" group-title="FILMES : FICCAO",ILHA MISTERIOSA
+
+https://play-akamai.pongalo.com/jules-verne-mysterious-island_en/jules-verne-mysterious-island_en_1-1/play_hls_2500.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScQj0oEVyc8Oe6sh1sQcfYzRDJv2OikVUqqQ&usqp=CAU" group-title="FILMES : FICCAO",AREA 51 - A INVASAO ALIEN
+
+https://play-akamai.pongalo.com/alien-domicile_en/alien-domicile_en_1-1/play_hls_720p.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwrW4b2A1fmE9eum4sqhEfapHAGRt_crRA2KIfCfiji4xB3YKm" group-title="FILMES : ACAO",UM AGENTE FORA DE SERIE
+
+https://play-akamai.pongalo.com/bodyguard_pt/bodyguard_pt_1-1/hls_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-T10ax-b2sPUNShGdxTi79tNe8iw4ks514w&usqp=CAU" group-title="FILMES : FICCAO",SUPER TEMPESTADE DE SEATLE
+
+https://play-akamai.pongalo.com/seattle-superstorm_pt/seattle-superstorm_pt_1-1/hls_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbJIntAulQpvRGmEMs1_Y6Ke6rLG7D_R0qWNFZF7jh02GIS9w" group-title="FILMES : TERROR",GRITO DE PANICO
+
+https://play-akamai.pongalo.com/scream-at-devil_pt/scream-at-devil_pt_1-1/hls_2500.m3u8
